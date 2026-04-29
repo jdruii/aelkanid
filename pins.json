@@ -1,0 +1,42 @@
+[
+  {
+    "id": "loc-001",
+    "type": "location",
+    "name": "The Capital City",
+    "lat": 20,
+    "lng": -30,
+    "description": "The grand seat of power in the realm. Ancient walls surround a bustling metropolis of trade and intrigue.",
+    "image": "images/capital.jpg",
+    "tags": ["city", "political"]
+  },
+  {
+    "id": "loc-002",
+    "type": "location",
+    "name": "The Ruins of Vel'Dara",
+    "lat": -15,
+    "lng": 60,
+    "description": "Once a thriving elven city, now only crumbling spires remain. Scholars travel far to study its ancient inscriptions.",
+    "image": "",
+    "tags": ["ruins", "historical"]
+  },
+  {
+    "id": "evt-001",
+    "type": "event",
+    "name": "The Battle of Iron Pass",
+    "lat": 35,
+    "lng": -80,
+    "description": "A pivotal clash that decided the fate of three kingdoms. The pass is now haunted by the echoes of that fateful day.",
+    "image": "",
+    "tags": ["battle", "historical"]
+  },
+  {
+    "id": "chr-001",
+    "type": "character",
+    "name": "Sera Nighthollow",
+    "lat": -40,
+    "lng": 10,
+    "description": "A wandering ranger last seen in the southern marshes. She carries a silver-tipped bow and a secret older than the realm.",
+    "image": "",
+    "tags": ["ranger", "ally"]
+  }
+]
